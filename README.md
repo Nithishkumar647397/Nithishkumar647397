@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Nithishkumar S.
 
-![banner](https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1600&q=60)
 
 ### 🚀 AI Developer • Full Stack Developer • ECE Student • Startup Founder
 
