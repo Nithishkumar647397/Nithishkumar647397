@@ -49,15 +49,15 @@ Currently focused on developing AI-powered web and mobile applications, building
 
 ### SportIQ
 AI-driven sports ecosystem for athlete analytics, profiling, and tournament management.  
-![SportIQ Demo](https://images.unsplash.com/photo-1521412644187-c49fa049e84d?auto=format&fit=crop&w=1200&q=60)
+
 
 ### SmartBus-TN
 Intelligent public-transport solution: tracking, smart ticketing, and predictive analytics.  
-![SmartBus Demo](https://images.unsplash.com/photo-1542089363-4d75b4c5b6a3?auto=format&fit=crop&w=1200&q=60)
+
 
 ### MineGuard-AI
 Mobile safety companion for mine workers using CV to improve PPE compliance and hazard reporting.  
-![MineGuard Demo](https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=60)
+
 
 (Replace the images above with screenshots or GIFs from your repos for a better showcase. Also replace project links below with the exact repo URLs.)
 
