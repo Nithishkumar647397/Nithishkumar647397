@@ -27,18 +27,35 @@ I build working software, not slideware — mostly at the intersection of comput
 ## Featured project
 
 ### SportIQ — *deployed*
-An AI-driven sports ecosystem for Tamil Nadu .Pitched to VELS Incubation Centre.
+An AI-driven sports ecosystem for Tamil Nadu.Pitched to VELS Incubation Centre.
 
-**[View repo →](https://github.com/Nithishkumar647397/SportIQ)**
+**[View repo →](https://github.com/Nithishkumar647397/SPORTIQ-1)**
+
+---
+
+## Pinned repos
+
+<div align="center">
+
+<a href="https://github.com/Nithishkumar647397/SPORTIQ-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithishkumar647397&repo=SPORTIQ-1&theme=radical" /></a>
+<a href="https://github.com/Nithishkumar647397/ai-data-scraper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithishkumar647397&repo=ai-data-scraper&theme=radical" /></a>
+<br/>
+<a href="https://github.com/Nithishkumar647397/mineguard-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithishkumar647397&repo=mineguard-ai&theme=radical" /></a>
+<a href="https://github.com/Nithishkumar647397/scam-honeypot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithishkumar647397&repo=scam-honeypot&theme=radical" /></a>
+<br/>
+<a href="https://github.com/Nithishkumar647397/Inventory-Management-Agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithishkumar647397&repo=Inventory-Management-Agent&theme=radical" /></a>
+<a href="https://github.com/Nithishkumar647397/MindScopeFinal2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nithishkumar647397&repo=MindScopeFinal2&theme=radical" /></a>
+
+</div>
 
 ---
 
 ## Other work
 
-- **MineGuard-AI** — Mobile safety companion for mine workers using computer vision for PPE compliance and hazard reporting. Originated from SIH25181; core stack (YOLOv8, FastAPI, Flutter/React, SQLite, Whisper) is built, not yet deployed in the field.
-- **AI Scam Detector** — Python/NLP-based scam message classifier
+- **MineGuard-AI** (`mineguard-ai`) — Mobile safety companion for mine workers using computer vision for PPE compliance and hazard reporting. Originated from SIH25181; core stack (YOLOv8, FastAPI, Flutter/React, SQLite, Whisper) is built, not yet deployed in the field.
+- **AI Scam Detector** (`scam-honeypot`) — Python/NLP-based scam message classifier
 - **SafeHer** — Women's safety web application
-- **MindScope** — Mental wellness platform
+- **MindScope** (`MindScopeFinal2`) — Mental wellness platform
 
 ---
 
@@ -85,12 +102,6 @@ An AI-driven sports ecosystem for Tamil Nadu .Pitched to VELS Incubation Centre.
 
 ---
 
-## GitHub trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nithishkumar647397&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
 ---
 
 ## Contribution snake
@@ -99,7 +110,9 @@ An AI-driven sports ecosystem for Tamil Nadu .Pitched to VELS Incubation Centre.
 <img src="https://raw.githubusercontent.com/Nithishkumar647397/Nithishkumar647397/output/github-contribution-grid-snake.svg" />
 </div>
 
-> ⚠️ **This one needs a one-time setup** — the snake image doesn't exist until you add a GitHub Action. Steps below.
+
+
+---
 
 ---
 
