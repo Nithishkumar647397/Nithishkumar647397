@@ -1,110 +1,165 @@
-# Hi there 👋 I'm Nithishkumar S.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=220&section=header&text=Nithishkumar%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-### 🚀 AI Developer • Full Stack Developer • ECE Student • Startup Founder
+<a href="https://github.com/Nithishkumar647397">
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+that+ships,+not+AI+that+demos;Computer+Vision+%7C+Real-Time+Systems+%7C+Product+Design;Pre-final+year+ECE+%40+VSB+Engineering+College;Founder+%40+UNIZS+Private+Limited&font=Fira+Code&center=true&width=600&height=45&color=7c3aed&vCenter=true&size=22&pause=1500"/>
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=Nithishkumar647397&label=Profile%20Views&color=7c3aed&style=flat" />
 
-## 💫 About Me
-I'm **Nithishkumar S**, an Electronics & Communication Engineering student passionate about Artificial Intelligence, Full Stack Development, and building products that solve real-world problems. I combine AI, software engineering, and product thinking to create scalable, user-centered solutions.
+</div>
 
-Currently focused on developing AI-powered web and mobile applications, building startup products, and expanding my skills in machine learning, cloud computing, and system design.
-
----
-
-## 🚀 What I'm Working On
-- 🤖 AI-powered applications and computer-vision solutions  
-- 📱 Cross-platform mobile apps (React Native)  
-- 🌐 Full-stack web development with modern architectures  
-- ☁️ Cloud-native deployments and backend engineering  
-- 🚀 Startup product development and go-to-market experiments
+I build working software, not slideware — mostly at the intersection of computer vision, real-time systems, and product design. Currently a pre-final year ECE student (Batch 2024–2028), building toward AI/ML engineering roles at product companies.
 
 ---
 
-## 💻 Tech Stack
+## Building right now
 
-**Languages:** Python · Java · C · JavaScript · HTML · CSS
-
-**Frontend:** React · React Native · HTML5 · CSS3 · JavaScript
-
-**Backend & APIs:** FastAPI · REST APIs · Firebase
-
-**AI & ML:** TensorFlow · PyTorch · Scikit-Learn · OpenCV · YOLO · NumPy · Pandas
-
-**Databases:** PostgreSQL · MySQL · Firebase
-
-**Tools & Platforms:** Git · GitHub · VS Code · Docker · Postman · Figma · Heroku / Cloud services
+| Project | What it is | Status |
+|---|---|---|
+| **BORDER-X AI** ([SIH26187](https://github.com/Nithishkumar647397)) | Offline-first edge AI border surveillance layer for existing IP CCTV — person/vehicle detection, ANPR, restricted-zone + loitering detection, explainable risk scoring, offline evidence queue with priority sync | In active build for Smart India Hackathon (6-member team) |
+| **Dayflow** | HRMS built for an Odoo hackathon — employee profiles, attendance, leave, percentage-based payroll, plus a QR-based check-in/check-out system I added on top of the spec | In active build |
+| **SmartBus TN** | Raspberry Pi + camera + GPS system for real-time bus passenger counting (YOLOv8 + ByteTrack) and occupancy tracking, with a React Native rider app | Code built, not yet deployed — passenger-counting accuracy on a moving bus is still unvalidated |
 
 ---
 
-## 🏆 Achievements
-- National Finalist — GVI AI Impact Bidathon  
-- National Hackathon Finalist & multiple national-level hackathon participant  
-- Founder — early-stage startup experience  
-- Active contributor & open-source learner
+## Featured project
+
+### SportIQ — *deployed*
+An AI-driven sports ecosystem for Tamil Nadu .Pitched to VELS Incubation Centre.
+
+**[View repo →](https://github.com/Nithishkumar647397/SportIQ)**
 
 ---
 
-## 🚀 Featured Projects
+## Other work
 
-### SportIQ
-AI-driven sports ecosystem for athlete analytics, profiling, and tournament management.  
-
-
-### SmartBus-TN
-Intelligent public-transport solution: tracking, smart ticketing, and predictive analytics.  
-
-
-### MineGuard-AI
-Mobile safety companion for mine workers using CV to improve PPE compliance and hazard reporting.  
-
-
-(Replace the images above with screenshots or GIFs from your repos for a better showcase. Also replace project links below with the exact repo URLs.)
-
-- [SportIQ](https://github.com/Nithishkumar647397/SportIQ) — AI analytics & tournament management  
-- [SmartBus-TN](https://github.com/Nithishkumar647397/SmartBus-TN) — Smart public-transport platform  
-- [MineGuard-AI](https://github.com/Nithishkumar647397/MineGuard-AI) — Safety & CV solution for mining  
-- [Full-Stack Boilerplate](https://github.com/Nithishkumar647397/Full-Stack-Boilerplate) — Starter templates for production apps
+- **MineGuard-AI** — Mobile safety companion for mine workers using computer vision for PPE compliance and hazard reporting. Originated from SIH25181; core stack (YOLOv8, FastAPI, Flutter/React, SQLite, Whisper) is built, not yet deployed in the field.
+- **AI Scam Detector** — Python/NLP-based scam message classifier
+- **SafeHer** — Women's safety web application
+- **MindScope** — Mental wellness platform
 
 ---
 
-## 🌱 Currently Learning
-Advanced Deep Learning · Large Language Models (LLMs) · Cloud Architecture · System Design · Advanced Backend Patterns
+## Achievements
+
+- 🏆 **National Finalist**, GUVI AI Impact Buildathon (finals held at Bharat Mandapam, New Delhi)
+- 🥈 **Ranked 11th** among 200 finalist teams, national-level competition
+- 🏅 **Top 100 Finalist**, StartupTN AI for Social Impact Challenge 2026
+- 🏅 **Semi-Finalist**, KPIT Sparkle 2026
+- 🥇 **College-level winner & zonal qualifier**, Eureka (E-Cell)
+- Represented VSB Engineering College at Smart India Hackathon 2025
+
+## Entrepreneurship
+
+- **Founder, UNIZS Private Limited** (registered company)
 
 ---
 
-## 🎯 Career Goal
-To become a world-class AI engineer and entrepreneur — building products that solve meaningful problems and positively impact millions of people.
+## Tech stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,firebase,postgres,mysql,sqlite" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" />
+
+</div>
 
 ---
 
-## 🤝 Let's Collaborate
-I'm open to collaborations in:
-- AI & Machine Learning
-- Open Source Projects
-- Full Stack & Mobile Development
-- Startup ideas and product-building
-- Research & Innovation
+## GitHub trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Nithishkumar647397&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
 
 ---
 
-## 📫 Connect With Me
+## Contribution snake
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithishkumar-s-420798322/)  
-[![Email](https://img.shields.io/badge/Email-nithishkumars006%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishkumars006@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Nithishkumar647397-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nithishkumar647397)
+<div align="center">
+<img src="https://raw.githubusercontent.com/Nithishkumar647397/Nithishkumar647397/output/github-contribution-grid-snake.svg" />
+</div>
+
+> ⚠️ **This one needs a one-time setup** — the snake image doesn't exist until you add a GitHub Action. Steps below.
 
 ---
 
-## 🔥 GitHub Stats
-![Nithishkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithishkumar647397&show_icons=true&theme=radical)  
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithishkumar-s-420798322/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishkumars006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nithishkumar647397)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithishkumar647397&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishkumar647397&layout=compact&theme=radical)
 
----
+<!--
+============================================================
+SETUP REQUIRED — snake contribution animation
+============================================================
+The "Contribution snake" image above is a 404 until you do this:
 
-> "Technology becomes meaningful when it solves real problems."  
-I believe in continuous learning, practical experimentation, and building tech that creates lasting impact.
+1. In your Nithishkumar647397/Nithishkumar647397 repo, create:
+   .github/workflows/snake.yml
 
----
+2. Paste this into it:
 
-⭐ Thanks for stopping by — feel free to explore my repositories and reach out!
+name: generate animation
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Nithishkumar647397
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+3. Commit it, then go to the Actions tab of that repo and manually
+   run "generate animation" once (it also auto-runs every 12 hrs
+   and on every push to main).
+
+4. That creates an "output" branch with the SVG. After the first
+   run completes (~1-2 min), the image in this README will render.
+
+No setup, no snake — the markdown alone can't animate your graph.
+============================================================
+-->
