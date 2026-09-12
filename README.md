@@ -29,7 +29,7 @@ I build working software, not slideware — mostly at the intersection of comput
 ### SportIQ — *deployed*
 An AI-driven sports ecosystem for Tamil Nadu.Pitched to VELS Incubation Centre.
 
-**[View repo →](https://github.com/Nithishkumar647397/SPORTIQ-1)**
+**[View repo →](https://github.com/Nithishkumar647397/SportiqMVP)**
 
 ---
 
