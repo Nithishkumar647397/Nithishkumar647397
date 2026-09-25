@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=220&section=header&text=Nithishkumar%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Nithishkumar647397">
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+that+ships,+not+AI+that+demos;Computer+Vision+%7C+Real-Time+Systems+%7C+Product+Design;Pre-final+year+ECE+%40+@VSB+Engineering+College;Founder+%40+UNIZS+Private+Limited&font=Fira+Code&center=true&width=600&height=45&color=7c3aed&vCenter=true&size=22&pause=1500"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+that+ships,+not+AI+that+demos;Computer+Vision+%7C+Real-Time+Systems+%7C+Product+Design;Pre-final+year+ECE+%40+VSB+Engineering+College;Founder+%40+UNIZS+Private+Limited&font=Fira+Code&center=true&width=600&height=45&color=7c3aed&vCenter=true&size=22&pause=1500"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Nithishkumar647397&label=Profile%20Views&color=7c3aed&style=flat" />
